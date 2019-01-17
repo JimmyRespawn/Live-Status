@@ -1,2 +1,0 @@
-MainPackage=C:\Users\Desktop-9600k\Documents\Source\Repos\Live Status\Live Status\bin\x86\Release\Live Status_1.3.1.0_x86.appx
-SymbolPackage=C:\Users\Desktop-9600k\Documents\Source\Repos\Live Status\Live Status\AppPackages\Live Status_1.3.1.0_Test\Live Status_1.3.1.0_x86.appxsym
